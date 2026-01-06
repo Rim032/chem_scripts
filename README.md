@@ -1,7 +1,7 @@
 ## ChemScripts
 ### Description
 
-A small collection of light-weight and versatile python scripts useful in the application of general chemistry. They can automatically balance a given chemical equation, and calculate the molecular weight of any given compound.
+A small collection of light-weight and versatile Python scripts useful in the application of general chemistry. They can automatically balance a given chemical equation, and calculate the molecular weight of any given compound.
 
 ### Reason
 
